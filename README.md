@@ -8,3 +8,4 @@ Let's be honest: I'm a Python fan and a BitBucket refugee. That is, I've been us
 
 So I'm in the process of moving my repositories from there to here and also the docs pages I used to maintain with my own website generator (which will also be included here).
 
+#### next: [project list](projects.md)
