@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my world
 
-You can use the [editor on GitHub](https://github.com/albertvisser/albertvisser.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Let's be honest: I'm a Python fan and a BitBucket refugee. That is, I've been using Mercurial for my personal projects but apparently Git is the future so I can't use BB anymore, might as well move to where everybody seems to be going so now I'm learning Git. Also I much prefer Restuctured Text over Markdown for writing docs but hey, I'll move with the times. I may be a dinosaur but I'll decide myself when it's time to die out thank you very much.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+So I'm in the process of moving my repositories from there to here and also the docs pages I used to maintain with my own website generator (which will also be included here).
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/albertvisser/albertvisser.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
