@@ -6,8 +6,6 @@ I'm from 1956, I started in IT in 1987 and I'm hooked on Python from around 2002
 
 These pages are about a collection of my personal software projects. Some of them are tools I built to make my programming life easier, others are stuff I made to demonstrate / prove a point or to try out things.
 
-Let's be honest: I'm a Python fan and a BitBucket refugee. That is, I've been using Mercurial for my personal projects but apparently Git is the future so I can't use BB anymore, might as well move to where everybody seems to be going so now I'm learning Git. Also I much prefer Restuctured Text over Markdown for writing docs but hey, I'll move with the times. I may be a dinosaur but I'll decide myself when it's time to die out thank you very much.
-
-So I'm in the process of moving my repositories from there to here and also the docs pages I used to maintain with my own website generator (which will also be included here).
+It's mainly meant as a personal archive stored outside of my home, but also a bit about public exposure - being able to show others what I do. My development process however takes place entirely at home, and the ticket numbers that the commits may refer to exist only in the Trac installation on my laptop. There are no plans to move that here as well.
 
 #### next: [project list](projects.md)
