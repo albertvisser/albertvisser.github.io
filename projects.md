@@ -9,5 +9,12 @@ In due time, these will be links to detail pages. For now, it's only a summation
 * Actiereg, a rewrite of an old issue tracking app
 * Axe, my take on an XML editor
 * Ashe, my take on an HTML editor
+* CSSEdit, my take on a CSS editor, in the same vein as the previous two
+* a-propos, simple notes taking tool using a tabbed interface
+* notetree, a-propos but in a tree interface and with keywords
+* treedocs, rich text notes/docs in a tree interface, with multiple hierarchies
+* compare-tool, for out-of-sequence comparisons of settings, xml and plain text
+* hotkeys, keep track of useful keycombos for all your applications
+* rst2html, maintaining web pages in your browser using ReST
 
 prev: [home](/)
