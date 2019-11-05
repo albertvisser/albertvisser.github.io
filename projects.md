@@ -18,4 +18,4 @@ In due time, these will be links to detail pages. For now, it's only a summation
 * hotkeys, keep track of useful keycombos for all your applications
 * rst2html, maintaining web pages in your browser using ReST
 
-prev: [home](/)  next: [more](/more)
+prev: [home](readme.md)  next: [more](more.md)
