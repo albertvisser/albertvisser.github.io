@@ -13,7 +13,7 @@ some older and less maintained or discontinued projects:
 * albums-cgi - predecessor of albums
 * absentie - giving back to my kids' school (never given though)
 * doctool - predecessor of myprojects
-* magiokis - back in the days I read that dynamic wensites were better
+* magiokis - back in the days I read that dynamic websites were better
 * magiokis-php - I just had to try it out 
 * magiokis-cherry - and then quickly back to Python
 * magiokis-django - another framework to try to master
