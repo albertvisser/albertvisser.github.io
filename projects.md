@@ -2,7 +2,7 @@
 
 This is only a summation. More elaborate docs are here: https://www.magiokis.nl/docs/en/
 
-* LinterGui, a frontend for Python Linters (because I'm too lazy to call the from the command line)
+* LinterGui, a frontend for Python Linters (because I'm too lazy to call them from the command line)
 * FileFindr, a tool to Find and Replace in File (because SciTE didn't do the latter)
 * LogViewer, a tiny webapp to view server logs in the browser (seemed like a good idea at the time)
 * Albums, my latest rewrite of a record collection managing app
