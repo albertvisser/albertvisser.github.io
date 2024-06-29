@@ -1,6 +1,6 @@
 ## Welcome to my world
 
-Hi, I'm Albert Visser from Holland and I'm a programmer like other people are gamers (it's also what I do for a living, but that's a different world). 
+Hi, I'm Albert Visser from Holland and I'm a programmer like other people are gamers (it's also what I used to do for a living, but that's a different world). 
 
 I'm from 1956, I started in IT in 1987 and I'm hooked on Python from around 2002.
 
