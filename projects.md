@@ -1,6 +1,7 @@
-## Projects on this site
+## Projects in this site
 
 This is only a summation. More elaborate docs are not publicly available anymore since I ditched my personal website. 
+
 * LinterGui, a frontend for Python Linters (because I'm too lazy to call them from the command line)
 * FileFindr, a tool to Find and Replace in File (because SciTE didn't do the latter)
 * LogViewer, a tiny webapp to view server logs in the browser (seemed like a good idea at the time)
