@@ -1,6 +1,6 @@
 ## Projects in this site
 
-This is only a summation. More elaborate docs are not publicly available anymore since I ditched my personal website. I still update them when needed, but more as an exercise for myself
+This is only a summation. More elaborate docs are not publicly available anymore since I ditched my personal website. I still update them when needed, but more as an exercise for myself.
 
 * LinterGui, a frontend for Python Linters (because I'm too lazy to call them from the command line)
 * FileFindr, a tool to Find and Replace in File (because SciTE didn't do the latter)
