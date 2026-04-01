@@ -7,6 +7,8 @@ two collections of scripts I use regularly:
 
 some older and less maintained or discontinued projects:
 
+* Albums, my latest rewrite of a record collection managing app
+* albumsgui, a nonweb version of this 
 * probreg - non-web predecessor of actiereg 
 * myprojects - how to document them in the browser
 * modreader - comparing music creation files
